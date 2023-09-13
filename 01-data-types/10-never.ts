@@ -8,5 +8,5 @@
         //return true // esto da error, porque no puede pasar nada luego del throw error
     }
 
-    error('Auxilio')
+    // error('Auxilio')
 })()
