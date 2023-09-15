@@ -102,6 +102,6 @@
     "no-compilar/*.ts"
   ],
   "include": [
-    "04-ES6"
+    "05-clases"
   ]
 }
