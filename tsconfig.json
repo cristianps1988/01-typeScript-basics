@@ -102,6 +102,6 @@
     "no-compilar/*.ts"
   ],
   "include": [
-    "05-clases"
+    "06-interfaces"
   ]
 }
