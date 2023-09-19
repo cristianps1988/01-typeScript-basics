@@ -102,6 +102,6 @@
     "no-compilar/*.ts"
   ],
   "include": [
-    "06-interfaces"
+    "07-namespaces"
   ]
 }
